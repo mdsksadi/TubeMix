@@ -8,3 +8,9 @@ TubeMix is a fun and addictive color-sorting puzzle game built with Kotlin for A
 - Undo moves and restart levels
 - Smooth animations with Jetpack Compose
 - Online and offline play
+## Tech Stack
+- **Language:** Kotlin
+- **UI:** Jetpack Compose
+- **Architecture:** MVVM
+- **State Machine:** StateFlow
+- **Minimum SDK:** 24
