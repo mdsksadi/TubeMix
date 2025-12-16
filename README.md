@@ -14,3 +14,7 @@ TubeMix is a fun and addictive color-sorting puzzle game built with Kotlin for A
 - **Architecture:** MVVM
 - **State Machine:** StateFlow
 - **Minimum SDK:** 24
+## How to Play
+1. Tap a tube to select the top ball.
+2. Tap another tube to move the ball (if the move is valid).
+3. Sort all colors into separate tubes to win!
